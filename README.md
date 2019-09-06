@@ -1,4 +1,5 @@
 Class project
+
 used clion to compile
 
 <img src="images/minesweeper_board.png" width="300" height="300">
